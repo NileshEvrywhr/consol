@@ -1,0 +1,15 @@
+{
+  "name": "napalm",
+  "version": "1.0.0",
+  "description": "crowdfund frontend using web3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nileshevrywhr",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.24.0",
+    "mz": "^2.7.0"
+  }
+}
